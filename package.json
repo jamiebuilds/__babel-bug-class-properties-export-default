@@ -1,0 +1,16 @@
+{
+  "name": "babel-bug-class-properties-export-default",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel index.js"
+  },
+  "author": "James Kyle <me@thejameskyle.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.1.1",
+    "babel-plugin-transform-class-properties": "^6.0.14"
+  },
+  "private": true
+}
